@@ -58,19 +58,22 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 My Contributions Snake
 
-<p align="center">
-  <img src="https://github.com/kumarsunny23/kumarsunny23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 ---
 
 ## 👀 Profile Views
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kumarsunny23/count.svg?" alt="visitor counter" />
-</div>
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kumarsunny23&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</p>
+
 
 ---
 
