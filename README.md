@@ -20,7 +20,7 @@
 
   >
 >
-<div>
+<div className="col-8">
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **portfolio projects & open source**
 - 🌱 Currently learning **Next.js, Firebase, GSAP**
@@ -31,7 +31,7 @@
 - 🡩‍🎓 BCA Undergraduate @ CIMAGE College
 - ⚡ Fun Fact: I debug more than I sleep 😄
 </div>
-<div>
+<div className="col-4">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE1dDI2MXl3azZkZW5hZTFlc3Ftd2k1NmRlNG1wZGY3c2RqajV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif"/>
 </div>
 ---
