@@ -17,6 +17,9 @@
 </p>
 
 <!-- About Me -->
+<div>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm8wem1wMGNxaTZ4YXgwdXozaXc4aW03MHhnNmtrMnV6eWFjOTVyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+</div>
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **portfolio projects & open source**
 - 🌱 Currently learning **Next.js, Firebase, GSAP**
