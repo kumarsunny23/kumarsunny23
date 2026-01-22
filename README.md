@@ -3,6 +3,13 @@
   <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="100%"/>
 </p>
 
+## Sunny Kumar – MERN Stack Developer (GitHub: kumarsunny23)
+
+This is the official GitHub profile of Sunny Kumar.  
+GitHub username: **kumarsunny23**.
+
+I am a MERN Stack Developer and currently learning **Java with Data Structures and Algorithms (DSA)**.
+
 <!-- Title -->
 <h1 align="center">
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="40" />
@@ -16,49 +23,42 @@
   </a>
 </p>
 
-<!-- About Me -->
+Full Stack Web Developer | MERN Stack Developer | Java with DSA Learner | Official GitHub Profile: kumarsunny23
 
-  >
->
+---
 
 ## 👨‍💻 About Me
+I am Sunny Kumar, a MERN Stack Developer on GitHub (username: kumarsunny23), focused on building modern web applications and learning Java with DSA.
+
 - 🔭 I’m currently working on **portfolio projects & open source**
 - 🌱 Currently learning **Next.js, Firebase, GSAP**
 - 👯 Looking to collaborate on **Web Dev & React-based projects**
 - 💬 Ask me about **React, JavaScript, Firebase**
 - 📣 Reach me at: [LinkedIn](https://www.linkedin.com/in/sunny-kumar-b576492b9/)
 - 🌐 Portfolio: [kumarsunny23.github.io](https://kumarsunny23.github.io)
-- 🡩‍🎓 BCA Undergraduate @ CIMAGE College
+- 🎓 BCA Undergraduate @ CIMAGE College
 - ⚡ Fun Fact: I debug more than I sleep 😄
-
-
 
 ---
 
 ## 🔧 Tech Stack
 <p align="center">
-  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" style="background:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <!-- DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="background:white"/>
-  <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
@@ -96,7 +96,7 @@
 
 ## 👀 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumarsunny23&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=kumarsunny23&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -109,29 +109,15 @@
   <a href="https://github.com/kumarsunny23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="mailto:sunnykrhjp378@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-
+### 🔗 Official GitHub Identity
+- Name: Sunny Kumar
+- GitHub Username: **kumarsunny23**
+- GitHub Profile: https://github.com/kumarsunny23
+- Role: MERN Stack Developer | Java with DSA Learner
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
