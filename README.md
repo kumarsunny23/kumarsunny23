@@ -1,6 +1,6 @@
 <head>
   <meta name="google-site-verification" content="lpYNG0BJdrdt_ytdPNVZh7Y3qCg-cEkLAPIrEt0NDfg" />
-  <title>Sunny Kumar Portfolio</title>
+ 
 </head>
 <!-- Banner / Header -->
 <p align="center">
