@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="lpYNG0BJdrdt_ytdPNVZh7Y3qCg-cEkLAPIrEt0NDfg" />
 <!-- Banner / Header -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="100%"/>
