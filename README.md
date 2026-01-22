@@ -1,6 +1,6 @@
 <head>
-  <meta name="google-site-verification" content="lpYNG0BJdrdt_ytdPNVZh7Y3qCg-cEkLAPIrEt0NDfg" />
  
+ <meta name="google-site-verification" content="lpYNG0BJdrdt_ytdPNVZh7Y3qCg-cEkLAPIrEt0NDfg" />
 </head>
 <!-- Banner / Header -->
 <p align="center">
