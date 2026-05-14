@@ -6,7 +6,7 @@
      Portfolio: https://kumarsunny23.github.io
      LinkedIn: https://www.linkedin.com/in/sunny-kumar-b576492b9/
      ============================================================ -->
-
+<meta name="google-site-verification" content="lpYNG0BJdrdt_ytdPNVZh7Y3qCg-cEkLAPIrEt0NDfg" />
 <meta name="google-site-verification" content="lpYNG0BJdrdt_ytdPNVZh7Y3qCg-cEkLAPIrEt0NDfg" />
 
 <!-- ===== BANNER ===== -->
